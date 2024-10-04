@@ -34,7 +34,7 @@
                 <configuration>
                     <images>
                         <image>
-                            <name>shariktlt/java-11-starter:${project.version}</name>
+                            <name>shariktlt/java-21-starter:${project.version}</name>
                         </image>
                     </images>
                 </configuration>
